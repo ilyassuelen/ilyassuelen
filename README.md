@@ -2,75 +2,76 @@
 <h3 align="center">🚀 Python Developer in training | Future AI Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Developer-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Interested%20in%20Machine%20Learning-orange?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI/ML-Learning-orange?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Design-green?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-Backend%20Apps-blue?logo=flask&logoColor=white" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Currently learning **Software Engineering with focus on AI** at **Masterschool**
-- 💡 Passionate about **Python**, **automation**, and **data-driven applications**
+- 🎓 Studying **Software Engineering – Focus on AI** at **Masterschool**
+- 🧪 Building backend applications with **Flask, APIs & SQL**
+- 🔍 Interested in **Machine Learning**, Data Pipelines & Automation
+- 🧠 Strong problem-solving mindset & passion for clean code
 - 🌍 Based in **Leverkusen, Germany**
-- ⚡ Fun fact: I love improving my code step by step — clarity and structure are key!
 
 ---
 
-### 🚧 Public Projects
+### 🚧 Highlight Projects
 
 | Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 📚 [Wikipedia Higher/Lower Game](https://github.com/ilyassulen/wiki-higher-lower) | Guess which topic has more Wikipedia views | Python, requests, JSON |
-| 🎬 [Movies Database CLI](https://github.com/ilyassulen/movies-database-cli) | Manage and search movies locally | Python, SQLite |
-| ❄️ [Melting Snowman](https://github.com/ilyassulen/melting-snowman) | Fun terminal word guessing game with ASCII art | Python, CLI |
+|--------|-------------|------------|
+| 🎵 **Music-Playlist-App** *(WIP)* | Flask Web-App with iTunes API & SQLite database | Python, Flask, SQLAlchemy, HTML/CSS |
+| 🎬 **MovieWebApp** *(WIP)* | CRUD-App for managing movies with user interaction | Python, Flask, SQLite, HTML/CSS |
+| 📚 **Book-Alchemy** *(WIP)* | Book management with relational data modeling | Python, Flask, SQLite |
 
 ---
 
 ### 🧩 Tech Stack
 
-#### 💻 Main Skills
-`Python` · `HTML (Basics)` · `CSS (Basics)`
+#### 💻 Core Skills
+`Python` · `Flask` · `SQL (SQLite)` · `REST APIs` · `OOP` · `Git & GitHub` · `CLI Development`
 
-#### 🧠 Learning & Interests
-`AI / Machine Learning (starting soon)` · `OOP` · `APIs` · `Data Analysis` · `Automation`
+#### 🔌 APIs & Data Handling
+`Requests` · `JSON` · `Data Processing`
 
-#### ⚙️ Tools
-`Git & GitHub` · `PyCharm` · `Terminal`· `Postman`· `DB Browser for SQLite`
+#### 🧪 Testing & Tools
+`pytest` · `Postman` · `DB Browser` · `PyCharm`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyassuelen&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassuelen&layout=compact&theme=tokyonight&count_private=false&hide=typescript" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ilyassuelen&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassuelen&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 ---
 
-### 🌱 Currently Learning
-- 🧠 Object-Oriented Programming (OOP)
-- 📦 Working with JSON & Databases
-- 🤖 Basics of Machine Learning
-- 🧩 Writing clean, modular Python code
+### 🚀 Currently Learning
+
+- 🤖 Machine Learning Foundations (NumPy, pandas, ML models soon)
+- 🧱 Database Architecture & Relational Modeling
+- 🎯 Performance Optimization & Code Quality
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:suelen.ilyas@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?logo=gmail"></a>
-  <a href="www.linkedin.com/in/ilyas-s-894702176"><img src="https://img.shields.io/badge/LinkedIn-Ilyas%20S%C3%BClen-blue?logo=linkedin"></a>
-  <a href="https://github.com/ilyassuelen"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
+  <a href="mailto:suelen.ilyas@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ilyas-s-894702176"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="https://github.com/ilyassuelen"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github"></a>
 </p>
 
 ---
 
-<p align="center">
-  <i>“Keep building. Keep improving. Every line of code counts.”</i> 💡
-</p>
+<p align="center"><i>“Keep building. Keep improving. Every line of code counts.”</i> 💡</p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ilyassuelen" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ilyassuelen" alt="visitors"/>
 </p>

@@ -24,6 +24,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| 🧿 **SubSphere – Subscription Tracker** | Full-Stack Web App to track digital subscriptions with authentication, user dashboards & CRUD features | Python, Flask, SQLAlchemy, Jinja, SQLite, HTML, CSS |
 | 🎵 **Music-Playlist-App** *(WIP)* | Flask Web-App with iTunes API & SQLite database | Python, Flask, SQLAlchemy, HTML/CSS |
 | 🎬 **MovieWebApp** *(WIP)* | CRUD-App for managing movies with user interaction | Python, Flask, SQLite, HTML/CSS |
 | 📚 **Book-Alchemy** *(WIP)* | Book management with relational data modeling | Python, Flask, SQLite |

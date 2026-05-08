@@ -1,56 +1,77 @@
-<h1 align="center">👋 Hi, I'm Ilyas Sülen</h1>
-<h3 align="center">🚀 Python Developer | AI Engineer in Training</h3>
+<p align="center">
+  <img src="https://www2.pic-upload.de/img/37572395/logo_hd.png" width="260" alt="Ilyas Sülen Logo" />
+</p>
+
+<h3 align="center">🚀 AI Backend Developer | Python · FastAPI · RAG · LLM Integration</h3>
+
+<p align="center">
+  🌐 <a href="https://ilyas-suelen.com">Portfolio Website</a> • 
+  <a href="https://github.com/ilyassuelen">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/ilyas-suelen">LinkedIn</a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Learning-orange?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Database%20Design-green?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-Backend%20Apps-blue?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend%20Apps-lightblue?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend%20APIs-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Document%20Intelligence-orange" />
+  <img src="https://img.shields.io/badge/LLMs-OpenAI-black?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector%20Search-red" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-blue" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Studying **Software Engineering – Focus on AI** at **Masterschool**
-- 🧪 Building backend applications with **FastAPI, Flask, REST APIs, SQL & PostgreSQL**
-- 🤖 Exploring **AI integration, RAG systems, LLMs & automation pipelines**
-- 🧠 Strong problem-solving mindset & passion for clean code
-- 🌍 Based in **Leverkusen, Germany**
+AI-focused Software Developer with strong Python skills and hands-on experience building backend systems with FastAPI, SQLAlchemy, REST APIs, and LLM integrations.
+
+I enjoy building practical AI applications focused on:
+
+- 🤖 RAG-based AI systems
+- 📄 Document intelligence & vector search
+- ⚡ Scalable backend architectures
+- 🔌 AI automation workflows
+- 🧠 Real-world problem solving with LLMs
+
+Currently focused on building modern AI-powered applications and continuously improving my skills in backend engineering, AI systems, and production-ready software architecture.
+
+📍 Based in Leverkusen, Germany
 
 ---
 
-### 🚧 Highlight Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🤖 **InsightAI** *(WIP)* | AI-powered web app for PDF analysis, report generation, and RAG-based querying | Python, FastAPI, SQLAlchemy |
-| 🧿 **SubSphere – Subscription Tracker** | Full-Stack Web App to track digital subscriptions with authentication, user dashboards & CRUD features | Python, Flask, SQLAlchemy, Jinja, SQLite, HTML, CSS |
-| 🎵 **Music-Playlist-App** *(WIP)* | Flask Web-App with iTunes API & SQLite database | Python, Flask, SQLAlchemy, HTML/CSS |
-| 🎬 **MovieWebApp** *(WIP)* | CRUD-App for managing movies with user interaction | Python, Flask, SQLite, HTML/CSS |
-| 📚 **Book-Alchemy** *(WIP)* | Book management with relational data modeling | Python, Flask, SQLite |
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **InsightAI** | AI-powered document intelligence platform with RAG-based conversational querying, structured report generation, vector search, and multi-format document processing (PDF, CSV, TXT, DOCX) | Python, FastAPI, OpenAI API, Qdrant, SQLAlchemy |
+| 💡 **SubPilot AI** | AI-powered subscription & contract management platform with automated reminder workflows, cancellation tracking, savings recommendations, and AI-generated cancellation assistance | Python, FastAPI, SQLAlchemy, OpenAI API, SQLite |
 
 ---
 
 ### 🧩 Tech Stack
 
-#### 💻 Core Skills
-`Python` · `Flask` · `FastAPI` · `SQL / SQLAlchemy` · `REST APIs` · `OOP` · `Git & GitHub` · `CLI Development`
+#### 💻 Backend & APIs
+`Python` · `FastAPI` · `Flask` · `REST APIs` · `SQLAlchemy` · `OOP`
 
-#### 🔌 APIs & Data Handling
-`Requests` · `JSON` · `Data Processing` · `OpenAI API` · `RAG Systems`
+#### 🤖 AI & LLM Engineering
+`RAG Pipelines` · `LLM Integration` · `OpenAI API` · `Prompt Engineering` · `Vector Search` · `Qdrant`
 
-#### 🧪 Testing & Tools
-`pytest` · `Postman` · `DB Browser` · `PyCharm`
+#### 🗄️ Databases & Data Handling
+`SQL` · `SQLite` · `PostgreSQL` · `JSON` · `Data Processing`
+
+#### ⚙️ Tools & Workflow
+`Git` · `GitHub` · `PyCharm` · `pytest` · `Postman` · `Docker`
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ilyassuelen&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassuelen&layout=compact&theme=tokyonight&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=ilyassuelen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilyassuelen&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 ---
@@ -58,14 +79,15 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:suelen.ilyas@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
-  <a href="www.linkedin.com/in/ilyas-suelen"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="mailto:kontakt@ilyas-suelen.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ilyas-suelen"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
   <a href="https://github.com/ilyassuelen"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github"></a>
+  <a href="https://ilyas-suelen.com"><img src="https://img.shields.io/badge/Website-Portfolio-6C63FF"></a>
 </p>
 
 ---
 
-<p align="center"><i>“Keep building. Keep improving. Every line of code counts.”</i> 💡</p>
+<p align="center"><i>Building practical AI systems with a focus on backend engineering, automation, and real-world usability.</i> 💡</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ilyassuelen" alt="visitors"/>

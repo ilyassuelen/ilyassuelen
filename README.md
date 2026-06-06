@@ -2,7 +2,7 @@
   <img src="https://www2.pic-upload.de/img/37572395/logo_hd.png" width="260" alt="Ilyas Sülen Logo" />
 </p>
 
-<h3 align="center">🚀 AI Backend Developer | Python · FastAPI · RAG · LLM Integration</h3>
+<h3 align="center">🚀 AI Backend Developer | Python · FastAPI · RAG · LLM Applications</h3>
 
 <p align="center">
   🌐 <a href="https://ilyas-suelen.com">Portfolio Website</a> • 
@@ -41,9 +41,10 @@ Currently focused on building modern AI-powered applications and continuously im
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **InsightAI** | AI-powered document intelligence platform with RAG-based conversational querying, structured report generation, vector search, and multi-format document processing (PDF, CSV, TXT, DOCX) | Python, FastAPI, OpenAI API, Qdrant, SQLAlchemy |
+| Project            | Description | Stack                                           |
+|--------------------|---|-------------------------------------------------|
+| 🤖 **InsightAI**   | AI-powered document intelligence platform with RAG-based conversational querying, structured report generation, vector search, and multi-format document processing (PDF, CSV, TXT, DOCX) | Python, FastAPI, OpenAI API, Qdrant, SQLAlchemy |
+| 🚀 **Launchly**    | AI-powered Career Intelligence Platform featuring resume analysis, recruiter simulations, interview coaching, portfolio analysis, LinkedIn optimization, and personalized career roadmaps | Python, FastAPI, React, PostgreSQL, OpenAI API  |
 | 💡 **SubPilot AI** | AI-powered subscription & contract management platform with automated reminder workflows, cancellation tracking, savings recommendations, and AI-generated cancellation assistance | Python, FastAPI, SQLAlchemy, OpenAI API, SQLite |
 
 ---
@@ -57,7 +58,7 @@ Currently focused on building modern AI-powered applications and continuously im
 `RAG Pipelines` · `LLM Integration` · `OpenAI API` · `Prompt Engineering` · `Vector Search` · `Qdrant`
 
 #### 🗄️ Databases & Data Handling
-`SQL` · `SQLite` · `PostgreSQL` · `JSON` · `Data Processing`
+`PostgreSQL` · `SQLite` · `SQL` · `JSON` · `Data Processing`
 
 #### ⚙️ Tools & Workflow
 `Git` · `GitHub` · `PyCharm` · `pytest` · `Postman` · `Docker`

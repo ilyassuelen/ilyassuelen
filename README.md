@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www2.pic-upload.de/img/37572395/logo_hd.png" width="260" alt="Ilyas Sülen Logo" />
+  <img src="https://www2.pic-upload.de/img/37577331/logo_gh.png" width="260" alt="Ilyas Sülen Logo" />
 </p>
 
 <h3 align="center">🚀 AI Backend Developer | Python · FastAPI · RAG · LLM Applications</h3>
@@ -23,17 +23,19 @@
 
 ### 🧠 About Me
 
-AI-focused Software Developer with strong Python skills and hands-on experience building backend systems with FastAPI, SQLAlchemy, REST APIs, and LLM integrations.
+I enjoy building AI-powered backend applications that solve real-world problems.
 
-I enjoy building practical AI applications focused on:
+Over the past year, I've built applications around LLMs, Retrieval-Augmented Generation (RAG), document intelligence, semantic search, and scalable FastAPI backend services. My focus is less on experimenting with AI and more on building practical tools people can actually use.
 
-- 🤖 RAG-based AI systems
-- 📄 Document intelligence & vector search
-- ⚡ Scalable backend architectures
+Areas I enjoy working in:
+
+- 🤖 LLM-powered applications
+- 📄 Document intelligence & semantic search
+- ⚡ Scalable backend services & APIs
 - 🔌 AI automation workflows
-- 🧠 Real-world problem solving with LLMs
+- 🧠 Turning complex ideas into practical products
 
-Currently focused on building modern AI-powered applications and continuously improving my skills in backend engineering, AI systems, and production-ready software architecture.
+I'm constantly learning, improving my backend engineering skills, and exploring better ways to build reliable AI systems.
 
 📍 Based in Leverkusen, Germany
 
@@ -41,11 +43,11 @@ Currently focused on building modern AI-powered applications and continuously im
 
 ### 🚀 Featured Projects
 
-| Project            | Description | Stack                                           |
-|--------------------|---|-------------------------------------------------|
-| 🤖 **InsightAI**   | AI-powered document intelligence platform with RAG-based conversational querying, structured report generation, vector search, and multi-format document processing (PDF, CSV, TXT, DOCX) | Python, FastAPI, OpenAI API, Qdrant, SQLAlchemy |
-| 🚀 **Launchly**    | AI-powered Career Intelligence Platform featuring resume analysis, recruiter simulations, interview coaching, portfolio analysis, LinkedIn optimization, and personalized career roadmaps | Python, FastAPI, React, PostgreSQL, OpenAI API  |
-| 💡 **SubPilot AI** | AI-powered subscription & contract management platform with automated reminder workflows, cancellation tracking, savings recommendations, and AI-generated cancellation assistance | Python, FastAPI, SQLAlchemy, OpenAI API, SQLite |
+| Project                                                    | Description                                                                                                                                                                                         | Stack                                           |
+|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| **[InsightAI](https://github.com/ilyassuelen/InsightAI)**  | AI-powered document intelligence platform supporting conversational search across PDF, DOCX, CSV, and TXT documents using RAG, semantic search, and structured report generation.                   | Python, FastAPI, OpenAI API, Qdrant, SQLAlchemy |
+| **[Launchly](https://github.com/ilyassuelen/Launchly)**    | AI-powered career intelligence platform that analyzes resumes, portfolios, GitHub repositories, LinkedIn profiles, and interview performance to generate personalized coaching and career roadmaps. | Python, FastAPI, React, PostgreSQL, OpenAI API  |
+| **[SubPilot](https://github.com/ilyassuelen/SubPilot-AI)** | AI-powered subscription & contract management platform with automated reminder workflows, cancellation tracking, savings recommendations, and AI-generated cancellation assistance.                 | Python, FastAPI, SQLAlchemy, OpenAI API, SQLite |
 
 ---
 
@@ -55,13 +57,22 @@ Currently focused on building modern AI-powered applications and continuously im
 `Python` · `FastAPI` · `Flask` · `REST APIs` · `SQLAlchemy` · `OOP`
 
 #### 🤖 AI & LLM Engineering
-`RAG Pipelines` · `LLM Integration` · `OpenAI API` · `Prompt Engineering` · `Vector Search` · `Qdrant`
+`RAG Pipelines` · `LLM Integration` · `OpenAI API` · `Prompt Engineering` · `Semantic Search` · `Qdrant`
 
 #### 🗄️ Databases & Data Handling
 `PostgreSQL` · `SQLite` · `SQL` · `JSON` · `Data Processing`
 
 #### ⚙️ Tools & Workflow
-`Git` · `GitHub` · `PyCharm` · `pytest` · `Postman` · `Docker`
+`Git` · `GitHub` · `PyCharm` · `pytest` · `Postman`
+
+---
+
+### 🎯 Currently Building
+
+- Market Intelligence RAG System (Internship)
+- AI-powered Career Intelligence Platform (Launchly)
+- FastAPI backend architectures
+- Retrieval-Augmented Generation pipelines
 
 ---
 

@@ -2,104 +2,212 @@
   <img src="https://www2.pic-upload.de/img/37577331/logo_gh.png" width="260" alt="Ilyas Sülen Logo" />
 </p>
 
-<h3 align="center">🚀 AI Backend Developer | Python · FastAPI · RAG · LLM Applications</h3>
+<h1 align="center">Hi, I'm Ilyas 👋</h1>
+
+<h3 align="center">
+  AI Backend Developer · Python · FastAPI · RAG · LLMs
+</h3>
 
 <p align="center">
-  🌐 <a href="https://ilyas-suelen.com">Portfolio Website</a> • 
-  <a href="https://github.com/ilyassuelen">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/ilyas-suelen">LinkedIn</a>
+  Building practical AI applications, reliable retrieval systems and modern Python backends.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend%20APIs-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Document%20Intelligence-orange" />
-  <img src="https://img.shields.io/badge/LLMs-OpenAI-black?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-Vector%20Search-red" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-blue" />
-</p>
-
----
-
-### 🧠 About Me
-
-I enjoy building AI-powered backend applications that solve real-world problems.
-
-Over the past year, I've built applications around LLMs, Retrieval-Augmented Generation (RAG), document intelligence, semantic search, and scalable FastAPI backend services. My focus is less on experimenting with AI and more on building practical tools people can actually use.
-
-Areas I enjoy working in:
-
-- 🤖 LLM-powered applications
-- 📄 Document intelligence & semantic search
-- ⚡ Scalable backend services & APIs
-- 🔌 AI automation workflows
-- 🧠 Turning complex ideas into practical products
-
-I'm constantly learning, improving my backend engineering skills, and exploring better ways to build reliable AI systems.
-
-📍 Based in Leverkusen, Germany
-
----
-
-### 🚀 Featured Projects
-
-| Project                                                    | Description                                                                                                                                                                                         | Stack                                           |
-|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| **[InsightAI](https://github.com/ilyassuelen/InsightAI)**  | AI-powered document intelligence platform supporting conversational search across PDF, DOCX, CSV, and TXT documents using RAG, semantic search, and structured report generation.                   | Python, FastAPI, OpenAI API, Qdrant, SQLAlchemy |
-| **[Launchly](https://github.com/ilyassuelen/Launchly)**    | AI-powered career intelligence platform that analyzes resumes, portfolios, GitHub repositories, LinkedIn profiles, and interview performance to generate personalized coaching and career roadmaps. | Python, FastAPI, React, PostgreSQL, OpenAI API  |
-| **[SubPilot](https://github.com/ilyassuelen/SubPilot-AI)** | AI-powered subscription & contract management platform with automated reminder workflows, cancellation tracking, savings recommendations, and AI-generated cancellation assistance.                 | Python, FastAPI, SQLAlchemy, OpenAI API, SQLite |
-
----
-
-### 🧩 Tech Stack
-
-#### 💻 Backend & APIs
-`Python` · `FastAPI` · `Flask` · `REST APIs` · `SQLAlchemy` · `OOP`
-
-#### 🤖 AI & LLM Engineering
-`RAG Pipelines` · `LLM Integration` · `OpenAI API` · `Prompt Engineering` · `Semantic Search` · `Qdrant`
-
-#### 🗄️ Databases & Data Handling
-`PostgreSQL` · `SQLite` · `SQL` · `JSON` · `Data Processing`
-
-#### ⚙️ Tools & Workflow
-`Git` · `GitHub` · `PyCharm` · `pytest` · `Postman`
-
----
-
-### 🎯 Currently Building
-
-- Market Intelligence RAG System (Internship)
-- AI-powered Career Intelligence Platform (Launchly)
-- FastAPI backend architectures
-- Retrieval-Augmented Generation pipelines
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ilyassuelen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilyassuelen&theme=tokyonight" alt="GitHub Profile Summary" />
+  <a href="https://ilyas-suelen.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ilyas-suelen">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kontakt@ilyas-suelen.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="mailto:kontakt@ilyas-suelen.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ilyas-suelen"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
-  <a href="https://github.com/ilyassuelen"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github"></a>
-  <a href="https://ilyas-suelen.com"><img src="https://img.shields.io/badge/Website-Portfolio-6C63FF"></a>
+I'm an **AI-focused Python Backend Developer** based in Germany, building software at the intersection of backend engineering and applied AI.
+
+My recent work includes developing and evaluating a **multilingual RAG system** for real-world market documents, working with vector search, embeddings, LLM integration, retrieval evaluation and source-grounded answer generation.
+
+I enjoy going beyond AI demos and turning ideas into structured, testable and useful software.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔨 What I build
+
+- LLM & RAG applications
+- Retrieval & vector search systems
+- Document intelligence solutions
+- Python backend services
+- REST APIs & integrations
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 What I focus on
+
+- Reliable AI systems
+- Retrieval quality & evaluation
+- Source-grounded LLM outputs
+- Clean backend architecture
+- Practical real-world applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Recent Experience
+
+### AI Engineering Intern · [HugginMunin](https://hugginmunin.com/)
+
+`Jul 2026 — Sep 2026`
+
+Worked on a multilingual RAG system for agricultural market research, with a strong focus on retrieval quality and reliable, source-grounded AI.
+
+**Key areas:**
+
+`Python` · `RAG` · `Qdrant` · `E5 Embeddings` · `LLMs` · `Retrieval Evaluation` · `Vector Search`
+
+- Developed and evaluated multilingual retrieval over real-world market documents
+- Built systematic retrieval evaluations using rank-based metrics and negative test cases
+- Implemented time-aware retrieval using document-level reference dates
+- Evaluated multiple retrieval strategies against controlled benchmarks
+- Audited PDF extraction quality across a real-world document corpus
+
+---
+
+## 🚀 Featured Projects
+
+<img src="https://raw.githubusercontent.com/ilyassuelen/InsightAI/refs/heads/main/frontend/public/logo.png" width="150" alt="InsightAI Logo" />
+
+**AI-powered document intelligence & RAG platform**
+
+Conversational search across PDF, DOCX, CSV and TXT documents using semantic retrieval and source-grounded AI responses.
+
+**Stack**
+
+`Python` · `FastAPI` · `OpenAI API` · `Qdrant` · `SQLAlchemy` · `RAG`
+
+➡️ **[View InsightAI on GitHub](https://github.com/ilyassuelen/InsightAI)**
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ilyassuelen/launchly/refs/heads/main/frontend/static/logo.png" width="150" alt="Launchly Logo" />
+
+**AI-powered career intelligence platform**
+
+Analyzes resumes, portfolios, GitHub repositories, LinkedIn profiles and interview performance to generate personalized feedback and career roadmaps.
+
+**Stack**
+
+`Python` · `FastAPI` · `React` · `PostgreSQL` · `OpenAI API`
+
+➡️ **[View Launchly on GitHub](https://github.com/ilyassuelen/Launchly)**
+
+<br>
+
+<img src="https://www2.pic-upload.de/img/37579253/subpilot_logo.png" width="150" alt="SubPilot Logo" />
+
+**Subscription & contract management platform**
+
+Manages subscriptions and contracts with reminder workflows, cancellation tracking, savings recommendations and AI-assisted cancellation support.
+
+**Stack**
+
+`Python` · `FastAPI` · `SQLAlchemy` · `OpenAI API` · `SQLite`
+
+➡️ **[View SubPilot on GitHub](https://github.com/ilyassuelen/SubPilot-AI)**
+
+---
+
+## 🧩 Tech Stack
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+</p>
+
+### AI & Retrieval
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Retrieval_Evaluation-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
+</p>
+
+### Development & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-<p align="center"><i>Building practical AI systems with a focus on backend engineering, automation, and real-world usability.</i> 💡</p>
+## 🔭 Current Focus
+
+I'm currently deepening my experience in:
+
+- 🔎 Reliable **RAG & retrieval systems**
+- 🐍 **Python & FastAPI** backend engineering
+- 🤖 **LLM integration** and structured AI workflows
+- 🧪 **Retrieval evaluation** and source-grounded AI
+- 🏗️ Building maintainable AI applications for real-world use
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilyassuelen&theme=tokyonight" alt="Ilyas Sülen GitHub Profile Summary" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities around **AI Engineering, Python Backend Development, RAG and LLM applications**.
+
+<p align="center">
+  <a href="https://ilyas-suelen.com">
+    <img src="https://img.shields.io/badge/Portfolio-ilyas--suelen.com-111827?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ilyas-suelen">
+    <img src="https://img.shields.io/badge/LinkedIn-Ilyas_Sülen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kontakt@ilyas-suelen.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Building practical AI systems with a focus on backend engineering, retrieval, and real-world reliability.</i> 💡</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ilyassuelen" alt="visitors"/>

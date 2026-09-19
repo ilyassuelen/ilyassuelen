@@ -63,13 +63,13 @@ I enjoy going beyond AI demos and turning ideas into structured, testable and us
 
 ---
 
-## 💼 Recent Experience
+## 💼 Experience & Education
 
 ### AI Engineering Intern · [HugginMunin](https://hugginmunin.com/)
 
-`Jul 2026 — Sep 2026`
+`Jul 2026 — Sep 2026` · `320 hours`
 
-Worked on a multilingual RAG system for agricultural market research, with a strong focus on retrieval quality and reliable, source-grounded AI.
+Developed and evaluated a multilingual RAG retrieval system for agricultural market research, focusing on retrieval quality, multilingual search, time-aware retrieval and reliable source-grounded AI answers.
 
 **Key areas:**
 
@@ -80,6 +80,18 @@ Worked on a multilingual RAG system for agricultural market research, with a str
 - Implemented time-aware retrieval using document-level reference dates
 - Evaluated multiple retrieval strategies against controlled benchmarks
 - Audited PDF extraction quality across a real-world document corpus
+
+<br>
+
+### Software Engineering · AI Engineering
+
+[MSIT – Master School Institute of Technology](https://joinmsit.de/)
+
+`Completed Sep 16, 2026` · `56 weeks` · `3,000 teaching hours`
+
+Completed a 56-week project-based Software Engineering program specialising in **AI Engineering**, progressing from Python backend development, APIs and databases to LLMs, RAG and applied AI systems.
+
+The program concluded with a **320-hour AI Engineering internship** focused on real-world retrieval and RAG systems.
 
 ---
 
